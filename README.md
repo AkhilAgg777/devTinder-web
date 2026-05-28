@@ -11,6 +11,15 @@
 -Create an outlet in your body component
 -Create a footer
 -create a login page
+-install axios
+-Cors-install cors in backend =>add middleware to with configurations:origin,credentials:true
+-Whenever you are making API call so pass axios => {withCredentials:true}
+-install react-redux + @reduxjs/toolkit - https://redux-toolkit.js.org/tutorials/quick-start
+- configureStore => Provider=> createSlice => add reducer to store
+-add redux dev tools in chrome
+-login and see if your  data is coming properly in the store
+-Navbar should update as soon as the user logs in
+-refactor our code to to add constants file + create a components folder
 
 Body
     NavBar
