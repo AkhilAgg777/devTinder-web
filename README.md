@@ -22,6 +22,8 @@
 -refactor our code to to add constants file + create a components folder
 -you should not be able to access other routes without login
 -If token is not present,redirect user to login page 
+-logout feature
+
 
 Body
     NavBar
